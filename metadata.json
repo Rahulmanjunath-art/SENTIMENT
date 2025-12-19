@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RevieAI - Smart Product Feedback Hub",
+  "description": "A sophisticated e-commerce product review system featuring AI-powered sentiment analysis, smart summarization, and automated merchant responses using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
